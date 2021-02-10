@@ -1,0 +1,15 @@
+.deps/
+ato4te.cache/
+*.o
+stamp-h1
+depcomp
+cpuminer-config.h.in
+configure
+config.sub
+config.log
+config.status
+config.guess
+compile
+aclocal.m4
+.directory
+missing
